@@ -26,7 +26,7 @@ At the very first step, I had to adapt to PyTorch Syntax, choose between CPU and
 
 Of course, my self-education is limited by the materials that I find online, so for now, I lack important evaluation steps, activation and tuning hyperparameters, advanced approaches, and more. I am still going to learn them.
 
-Project ideas source
+# Project ideas source
 
 * The notebook ideas were taken from the internet and the PyTorch documentation, and adapted to my personal perspective.
 
@@ -38,3 +38,8 @@ Project ideas source
 ---
 
 \* https://drive.google.com/drive/folders/0B7EVK8r0v71pLXQ4bmxZaEFKTm8?resourcekey=0-Ldyv0gTGbbEnAf_wOGqEpg
+
+----
+Please refer my other findings, such as
+- [Spotify RecSys challenge solution](https://github.com/georgerieh/spotify-million-dataset.git)
+- [Image Vector Search Database](https://github.com/georgerieh/vector-search-clickhouse)
